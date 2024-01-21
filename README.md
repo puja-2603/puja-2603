@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Puja Agrawal
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning at NIT Rourkela , BTech CSE, 2nd Year
+- 🌱 I’m currently learning at NIT Rourkela , BTech CSE, 3nd Year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... puja.agrawal.2603@gmail.com
 
